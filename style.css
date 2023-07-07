@@ -56,7 +56,6 @@ body{
   display: grid;
   gap: 3.2rem;
   
-  position: absolute;
   position: relative;
   left: 0;
   bottom: 0;
@@ -79,7 +78,7 @@ header p {
   line-height: 3.2rem;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color:var(--fc-secondary) ;
+  color:var(--fc-secondary);
   margin-bottom: 1.7rem;
 }
 
@@ -106,6 +105,7 @@ a{
   height: 22.5rem;
   border-radius: 0.6rem;
   transition: transform 200ms;
+  filter: drop-shadow(2px 4px 6px black);
   /*object-fit: cover;(ajustar a imagem ao espaço do card*/ 
 }
 
@@ -155,5 +155,8 @@ a{
     }
 
 }
+
+
+
 
 
