@@ -1,6 +1,6 @@
 # 9º Projeto - Programa Explorer
 
-> Projeto construído no programa Explorer, promovido pela Rocketseat, no stage 3 - em aula.
+> Projeto adaptado com base no modelo construído no programa Explorer, promovido pela Rocketseat, no stage 3 - em aula.
 
 https://github.com/kleck-lucena/firstProjects/assets/107014908/5ae75abb-de34-4214-8543-09a191f7d5ff
 
